@@ -3,3 +3,4 @@ openai
 pynsee
 matplotlib
 pandas
+dotenv
